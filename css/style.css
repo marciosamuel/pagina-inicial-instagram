@@ -118,11 +118,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-  background-image: url("/img/app-store.png");
+  background-image: url("../img/app-store.png");
 }
 
 .app-download:nth-child(2) {
-  background-image: url("/img/google-play.png");
+  background-image: url("../img/google-play.png");
 }
 
 /* Media Query */

@@ -4,4 +4,4 @@ Este site foi desenvolvido durante o bootcamp [HTML Web Developer](https://web.d
 
 ## Link
 
-<https://instagram-home.herokuapp.com/>
+<https://marciosamuel.github.io/interface-netflix/pagina-inicial-instagram/>
