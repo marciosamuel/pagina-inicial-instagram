@@ -4,4 +4,4 @@ Este site foi desenvolvido durante o bootcamp [HTML Web Developer](https://web.d
 
 ## Link
 
-<https://marciosamuel.github.io/interface-netflix/pagina-inicial-instagram/>
+<https://marciosamuel.github.io/pagina-inicial-instagram/>
